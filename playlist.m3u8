@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ICTV2" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-id="ICTV2.ua" group-title="Україна",ICTV2
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" tvg-id="ICTVSerialy.ua" group-title="Україна",ICTV Serialy
+#EXTINF:-1 tvg-name="ICTV Serialy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ICTV_Serialy_%282024%29.png" tvg-id="ICTVSerialy.ua" group-title="Україна",ICTV Серіали
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 #EXTINF:-1 tvg-name="XSport" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" group-title="Україна",XSport
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
-#EXTINF:-1 tvg-name="ПЕРШИЙ HD" tvg-logo="https://i.imgur.com/osTQLED.png" tvg-id="Pershyi.ua" group-title="Україна",ПЕРШИЙ HD
+#EXTINF:-1 tvg-name="Pershyi" tvg-logo="https://i.imgur.com/osTQLED.png" tvg-id="Pershyi.ua" group-title="Україна",ПЕРШИЙ HD
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-name="1+1 Марафон UA" tvg-logo="" tvg-id="" group-title="Україна",1+1 Марафон UA
+#EXTINF:-1 tvg-name="1+1 Marafon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/1%2B1_Marafon_%282022%29.svg/960px-1%2B1_Marafon_%282022%29.svg.png" tvg-id="1Plus1Marafon.ua" group-title="Україна",1+1 Марафон
 http://ukr.ukrainske.tv/399/keytvainua/video.m3u8
-#EXTINF:-1 tvg-name="1+1 UA" tvg-logo="" tvg-id="" group-title="Україна",1+1 UA
+#EXTINF:-1 tvg-name="1+1 Ukraina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/960px-1%2B1_Ukraina_%282024%29.svg.png" tvg-id="1Plus1Ukraina.ua" group-title="Україна",1+1 Серіали
 http://m3u8.ott.blue/C5UK_1plus1SD/mpegts?token=94450098895765784220366841698509
-#EXTINF:-1 tvg-name="Action TVOE Kino HD" tvg-logo="" tvg-id="" group-title="Україна",Action TVOE Kino HD
+#EXTINF:-1 tvg-name="Action TVOE Kino HD" tvg-logo="https://epg.iptvx.one/picons/tvoje-kino-action.png" tvg-id="tvoje-kino-action" group-title="Україна",ACTION Твоє Кіно
 http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 tvg-name="Xit TVOE Kino HD" tvg-logo="" tvg-id="" group-title="Україна",Xit TVOE Kino HD
+#EXTINF:-1 tvg-name="Xit TVOE Kino HD" tvg-logo="https://epg.iptvx.one/picons/tvoje-kino-xit.png" tvg-id="tvoje-kino-xit" group-title="Україна",XIT Твоє Кіно
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 tvg-name="Film UA Drama" tvg-logo="" tvg-id="" group-title="Україна",Film UA Drama
+#EXTINF:-1 tvg-name="Film UA Drama" tvg-logo="https://epg.iptvx.one/picons/filmua-drama.png" tvg-id="filmua-drama" group-title="Україна",Film UA Drama
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1 tvg-name="1+1 Україна" tvg-logo="" tvg-id="" group-title="Україна",1+1 Україна
+#EXTINF:-1 tvg-name="1+1 Ukraina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/960px-1%2B1_Ukraina_%282024%29.svg.png" tvg-id="1Plus1Ukraina.ua" group-title="Україна",1+1 Серіали (2)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=927E03BF1A83DF5DE6628CAF78BA2C13
-#EXTINF:-1 tvg-name="1+1 Україна (UA)" tvg-logo="" tvg-id="" group-title="Україна",1+1 Україна (UA)
+#EXTINF:-1 tvg-name="1+1 Ukraina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/1%2B1_Ukraina_%282024%29.svg/960px-1%2B1_Ukraina_%282024%29.svg.png" tvg-id="1Plus1Ukraina.ua" group-title="Україна",1+1 Серіали (3)
 http://portal.ott.pink/C5UK_1plus1SD/index.m3u8?token=2B8378CADCB27AA393170BD7EDB7C0E9
